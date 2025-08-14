@@ -1,0 +1,10 @@
+python-docx 
+networkx 
+openai
+pillow
+matplotlib
+requests
+backoff
+tiktoken
+nltk
+numpy
